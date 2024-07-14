@@ -16,7 +16,7 @@ colums dataset:
 7. KETERANGAN       ==> information about "choice number of students accepted"
 
 # About Project
-We intend to clean this dataset by separating major and university data in columns 1, 2, 3, and 4. And we will also analyze the data by visualizing the favorite universities, the average grades of participants accepted etc.
+We intend to clean this dataset by separating major and university data in columns (Pilihan 1, 2, 3, and 4). And we will also analyze the data by visualizing the favorite universities, the average grades of participants accepted etc.
 
 by girifrmnsyh.
 
